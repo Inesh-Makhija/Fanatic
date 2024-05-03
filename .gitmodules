@@ -1,0 +1,12 @@
+[submodule "Fanatic/vendor/spdlog"]
+	path = Fanatic/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "Fanatic/vendor/GLFW"]
+	path = Fanatic/vendor/GLFW
+	url = https://github.com/glfw/glfw
+[submodule "Fanatic/vendor/imgui"]
+	path = Fanatic/vendor/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "Fanatic/vendor/glm"]
+	path = Fanatic/vendor/glm
+	url = https://github.com/g-truc/glm
